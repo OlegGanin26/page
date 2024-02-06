@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+    height: 80px;
+    background: url(header.jpg) no-repeat;
+    padding-left: 187px;
+    padding-top: 13px;
+}
+
+#pogoda {
+    width: 140px;
+    float: left;
+}
+
+#photo {
+    float: right;
+    margin: 2px;
+    width: 220px;
+    padding-left: 10px;
+}
+
+p {
+    margin: 5px;
+    text-indent: 20px;
+}
+
+#content {
+    padding-left: 140px;
+    padding-right: 220px;    
+}
+
+em {
+    float: right;
+   margin-bottom: 5px;
+}
+
+#footer {
+    background-color: #cccccc;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    clear: both;
+}
